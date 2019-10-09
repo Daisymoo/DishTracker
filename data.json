@@ -1,0 +1,28 @@
+{
+  "dishes": [
+    {
+	  "dish": "Saucer",i
+	  "image": "yellowsaucer.jpg",
+	  "Years Produced" "1936-1969",
+	  "Colors": "Red, Yellow, Light Green, Cobalt Blue, Ivory, Turquoise, Rose, Chartreuse, Forest Green, Medium Green, Red Stripe, Blue Stripe"
+    },
+	{
+      "dish": "Ash Tray",
+	  "image": "ashtrays.jpg",
+	  "Years Produced": "1936-1969",
+	  "Colors": "Red, Yellow, Light Green, Cobalt Blue, Ivory, Turquoise, Rose, Chartreuse, Forest Green, Medium Green, Maroon (rumored), Red Stripe"
+	},
+    {
+	  "dish": "Cream Soup Bowl",
+	  "image": "Cream_Soup_Bowls.jpg",
+	  "Years Produced": "1936-1969",
+	  "Colors": "Red, Yellow, Light Green, Cobalt Blue, Ivory, Turquoise, Rose, Chartreuse, Forest Green, Medium Green, Red Stripe"
+	},
+	{
+	  "dish": "Covered Onion Soup Bowl with Lid",
+	  "image": "Covered Onion SoupBowl.jpg",
+	  "Years Produced": "1936-1969",
+	  "Colors": "Red, Yellow, Light Green, Cobalt Blue, Ivory, Turquoise (few), Red Stripe"
+	}
+  ]
+}
